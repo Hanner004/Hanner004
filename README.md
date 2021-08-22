@@ -9,4 +9,4 @@ Tecnólogo en análisis y desarrollo de sistemas de información. Con conocimien
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 ## Datos de contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/hannerdlh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hanner_De_La_Hoz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/hannerdlh)
