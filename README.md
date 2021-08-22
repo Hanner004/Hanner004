@@ -11,4 +11,4 @@ Tecnólogo en análisis y desarrollo de sistemas de información. Con conocimien
 ## DATOS DE CONTACTO
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hanner_De_La_Hoz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/hannerdlh)
 
-[![Email](https://img.shields.io/badge/hanerdelahoz900@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:hanerdelahoz900@hotmail.com)
+[![Email](https://img.shields.io/badge/hanerdelahoz900@hotmail.com-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:hanerdelahoz900@hotmail.com)
