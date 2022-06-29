@@ -5,8 +5,10 @@ Tecnólogo en análisis y desarrollo de sistemas de información. Con conocimien
 
 ## TECNOLOGÍAS
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
 ## DATOS DE CONTACTO
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hanner_De_La_Hoz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/hannerdlh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannerdlh)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={Hanner004}
