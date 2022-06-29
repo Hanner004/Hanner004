@@ -12,8 +12,6 @@ Tecnólogo en análisis y desarrollo de sistemas de información. Con conocimien
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannerdlh)
 
 ## ESTADÍSTICAS
-[![GITHUB](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanner004&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-  <img src="" />
-</p>
+<center>
+  [![GITHUB](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanner004&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</center>
