@@ -13,4 +13,12 @@ Tecnólogo en análisis y desarrollo de sistemas de información. Con conocimien
 
 ## ESTADÍSTICAS
 
-[![badge](https://github-readme-stats.vercel.app/api/top-langs/?username={Hanner004})]
+[![badge](https://github-readme-stats.vercel.app/api?username=Hanner004&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Hanner De La Hoz)]
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Hanner004&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Hanner De La Hoz">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanner004&layout=compact&theme=dark" />
+</p>
