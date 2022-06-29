@@ -13,5 +13,5 @@ Tecnólogo en análisis y desarrollo de sistemas de información. Con conocimien
 
 ## ESTADÍSTICAS
 <center>
-  [![GITHUB](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanner004&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanner004)](https://github.com/anuraghazra/github-readme-stats)
 </center>
