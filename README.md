@@ -4,7 +4,6 @@
 Tecnólogo en análisis y desarrollo de sistemas de información. Con conocimientos y experiencia en el desarrollo de software back-end Node.js y administración de base de datos SQL y NoSQL. Con facilidad de adaptación y capacidad de trabajar en equipo, con iniciativa para resolver problemas eficientemente y lograr las metas y objetivos.
 
 ## TECNOLOGÍAS
-<br>
 [![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)]()
 [![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
