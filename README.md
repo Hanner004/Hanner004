@@ -1,7 +1,7 @@
 # Hola, mi nombre es Hanner De La Hoz
 ### Desarrollador back-end
 
-Tecnólogo en análisis y desarrollo de sistemas de información. Con conocimientos y experiencia en el desarrollo de software back-end Node.js y administración de base de datos SQL y NoSQL. Con facilidad de adaptación y capacidad de trabajar en equipo, con iniciativa para resolver problemas eficientemente y lograr las metas y objetivos.
+Estudiante de ingeniería de sistemas y tecnólogo en desarrollo de software. Con conocimientos y experiencia en el desarrollo de software back-end Node.js y administración de base de datos SQL y NoSQL. Con facilidad de adaptación y capacidad de trabajar en equipo, con iniciativa para resolver problemas eficientemente y lograr las metas y objetivos.
 
 ## TECNOLOGÍAS
 [![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)]()
