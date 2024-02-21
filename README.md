@@ -1,7 +1,7 @@
 # Hola, mi nombre es Hanner De La Hoz
 ### Desarrollador de back-end | Software Developer | Node.js Developer | NestJS | Express.js | PostgreSQL | MongoDB | Git | Docker
 
-Ingeniero de sistemas en formación, cursando octavo semestre de la carrera y con un título de tecnólogo en análisis y desarrollo de sistemas de información. Con conocimientos y experiencia en el desarrollo de software back-end. Capaz de adaptarse rápidamente a nuevos entornos y trabajar de forma efectiva en equipo. Con iniciativa para resolver problemas eficientemente y alcanzar las metas propuestas. Mi objetivo es seguir aprendiendo y creciendo como profesional, ofreciendo soluciones innovadoras y de calidad.
+Ingeniero de sistemas en formación, cursando octavo semestre de la carrera y con un título de tecnólogo en análisis y desarrollo de sistemas de información. Con conocimientos y experiencia de más de 1 año en el desarrollo de software back-end. Capaz de adaptarse rápidamente a nuevos entornos y trabajar de forma efectiva en equipo. Con iniciativa para resolver problemas eficientemente y alcanzar las metas propuestas. Mi objetivo es seguir aprendiendo y creciendo como profesional, ofreciendo soluciones innovadoras y de calidad.
 
 ## TECNOLOGÍAS
 [![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)]()
