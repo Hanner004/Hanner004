@@ -1,6 +1,6 @@
 # Hello, my name is Hanner De La Hoz
 
-### Software Developer | Node.js | NestJS | Express.js | PostgreSQL | MongoDB | Git | Docker
+### Software Developer | Node.js | Python | NestJS | Express.js | PostgreSQL | MongoDB | Git | Docker
 
 Systems Engineer in training, currently in the eighth semester of the degree and holding a technologist degree in analysis and development of information systems. With knowledge and experience of over 1 year in back-end software development. Able to quickly adapt to new environments and work effectively in a team. With initiative to efficiently solve problems and achieve set goals. My goal is to continue learning and growing as a professional, offering innovative and quality solutions.
 
