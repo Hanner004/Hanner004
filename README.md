@@ -16,7 +16,6 @@ Experienced back-end software developer with over 1 year of experience. Quick to
 
 <p align="center">
 <a href="https://github.com/Hanner004">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hanner004&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanner004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </a>
 </p>
