@@ -2,7 +2,7 @@
 
 ### Systems Engineer | Software Developer | Node.js (JS/TS) • Python • NestJS • Express.js | SQL & NoSQL: PostgreSQL, MySQL, MongoDB | Git • Docker
 
-Systems Engineer with more than 2 years of experience in back-end software development. Able to quickly adapt to new environments and work effectively in a team. Proactive in solving problems efficiently and achieving proposed goals. My objective is to keep learning and growing as a professional, delivering innovative and high-quality solutions.
+Systems engineer with over 2 years of experience in back-end software development. A problem-solving-oriented professional with the ability to adapt quickly to new environments and work as part of a team. Committed to continuous learning and the development of high-quality solutions.
 
 ### 🌐 Socials:
 
